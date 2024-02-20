@@ -1,6 +1,6 @@
 ---
-title: "Bruh"
-date: 2024-01-25T13:43:20-08:00
+title: "Magnetic Fields"
+date: 2024-02-20T14:31:28-08:00
 description: "Description Text."
 categories:
     - Example Category
@@ -9,3 +9,6 @@ tags:
 ---
 
 
+## Magnetic Fields
+
+Magnetic fields are cool
