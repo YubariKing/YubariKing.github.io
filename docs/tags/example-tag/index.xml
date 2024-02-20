@@ -7,13 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Ali Isa Talebi</copyright>
-        <lastBuildDate>Thu, 25 Jan 2024 13:43:20 -0800</lastBuildDate><atom:link href="https://yubariking.github.io/tags/example-tag/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Bruh</title>
-        <link>https://yubariking.github.io/p/bruh/</link>
-        <pubDate>Thu, 25 Jan 2024 13:43:20 -0800</pubDate>
+        <lastBuildDate>Tue, 20 Feb 2024 14:31:28 -0800</lastBuildDate><atom:link href="https://yubariking.github.io/tags/example-tag/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Magnetic Fields</title>
+        <link>https://yubariking.github.io/p/magnetic-fields/</link>
+        <pubDate>Tue, 20 Feb 2024 14:31:28 -0800</pubDate>
         
-        <guid>https://yubariking.github.io/p/bruh/</guid>
-        <description></description>
+        <guid>https://yubariking.github.io/p/magnetic-fields/</guid>
+        <description>&lt;h2 id=&#34;magnetic-fields&#34;&gt;Magnetic Fields&lt;/h2&gt;
+&lt;p&gt;Magnetic fields are cool&lt;/p&gt;
+</description>
         </item>
         
     </channel>
