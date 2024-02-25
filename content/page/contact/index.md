@@ -9,4 +9,4 @@ menu:
 readingTime: false
 ---
 
-Sit amet aliquam id diam. At consectetur lorem donec massa sapien faucibus. Felis donec et odio pellentesque. Enim eu turpis egestas pretium aenean pharetra magna ac placerat.
+isatalebi14@gmail.com
