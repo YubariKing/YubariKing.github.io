@@ -3,7 +3,7 @@ title: "Olber's Paradox"
 date: 2024-02-25T11:59:20-08:00
 description: "Why is the night sky dark?"
 categories:
-    - astronomy
+    - physics
 tags:
     - astronomy 
     - astrophysics
