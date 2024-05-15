@@ -1,6 +1,6 @@
 ---
 title: "Celestial Origin of Elements"
-date: 2024-02-26T20:21:51-08:00
+date: 2024-05-14T20:21:51-08:00
 description: "How were the elements forged in our universe?"
 categories:
     - physics
