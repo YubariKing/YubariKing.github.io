@@ -4,7 +4,7 @@ date: {{ .Date }}
 description: "Description Text."
 image: cover.jpg
 categories:
-    - bruh
+    - Example Category
 tags:
     - Example Tag
 ---
