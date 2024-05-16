@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Ali Isa Talebi</copyright>
-        <lastBuildDate>Tue, 14 May 2024 20:21:51 -0800</lastBuildDate><atom:link href="https://yubariking.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 May 2024 20:17:59 -0700</lastBuildDate><atom:link href="https://yubariking.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>blog</title>
+        <link>https://yubariking.github.io/tags/blog/</link>
+        <pubDate>Wed, 15 May 2024 20:17:59 -0700</pubDate>
+        
+        <guid>https://yubariking.github.io/tags/blog/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>astronomy</title>
         <link>https://yubariking.github.io/tags/astronomy/</link>
         <pubDate>Tue, 14 May 2024 20:21:51 -0800</pubDate>
