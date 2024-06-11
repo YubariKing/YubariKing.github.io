@@ -24,7 +24,7 @@ This means a radioactive element can have stable isotopes, they are just less ab
 
 On the periodic table, most of the radioactive elements are heavier than Bismuth as the electrostatic force starts to dominate the strong nuclear force. 
 
-![Periodic Table showing the radioactive elements](RadioactiveElements.png)
+![Periodic Table showing the radioactive elements](table.png)
 
 ## Types of Radioactive Decay
 
@@ -44,4 +44,4 @@ In alpha decay, an unstable nucleus releases 2 protons and 2 neutrons, or essent
 
 There are two types of beta decay. Beta-minus decay is when a neutron converts into a proton, and thus emits a electron (beta particle) and an antineutrino. Beta-plus decay is when the opposite happens, a proton converts into a neutron, thus releasing a positron and neutrino. From these processes it's possible for an element to transmute into a heavier or lighter element.
 
-![Example of Beta Decay](betaDecay.png)
+![Example of Beta Decay](betaDecay3.png)
