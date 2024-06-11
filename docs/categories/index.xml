@@ -7,21 +7,21 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Ali Isa Talebi</copyright>
-        <lastBuildDate>Wed, 15 May 2024 20:17:59 -0700</lastBuildDate><atom:link href="https://yubariking.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 09 Jun 2024 16:50:58 -0700</lastBuildDate><atom:link href="https://yubariking.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Physics</title>
+        <link>https://yubariking.github.io/categories/physics/</link>
+        <pubDate>Sun, 09 Jun 2024 16:50:58 -0700</pubDate>
+        
+        <guid>https://yubariking.github.io/categories/physics/</guid>
+        <description>&lt;img src="https://yubariking.github.io/categories/physics/cover.jpg" alt="Featured image of post Physics" /&gt;</description>
+        </item>
+        <item>
         <title>Reflection</title>
         <link>https://yubariking.github.io/categories/reflection/</link>
         <pubDate>Wed, 15 May 2024 20:17:59 -0700</pubDate>
         
         <guid>https://yubariking.github.io/categories/reflection/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>Physics</title>
-        <link>https://yubariking.github.io/categories/physics/</link>
-        <pubDate>Tue, 14 May 2024 20:21:51 -0800</pubDate>
-        
-        <guid>https://yubariking.github.io/categories/physics/</guid>
-        <description>&lt;img src="https://yubariking.github.io/categories/physics/cover.jpg" alt="Featured image of post Physics" /&gt;</description>
         </item>
         
     </channel>
